@@ -13,6 +13,7 @@
 display: block;
     color: white;
     position: fixed;
+    font-family: Helvatica-medium;
     white-space: nowrap;
     text-transform: uppercase;
     height: 65px;
