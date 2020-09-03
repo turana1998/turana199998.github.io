@@ -6058,6 +6058,7 @@ li.fancybox-thumbs-loading {
 }
 .Fold:hover .b-backg-anim--article-title{
     background-color: #3b54a5;
+    color:white;
   
 }
 .Fold:hover .b-backg-anim--article-title .dtc{
