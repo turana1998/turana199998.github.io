@@ -42,7 +42,7 @@
     /* padding-top: .9375rem;
     padding-bottom: .9375rem; */
 } 
-   
+
 /* .Fold:hover:after { 
     transition-duration: 1s; 
     border:1px solid white;
@@ -6056,7 +6056,27 @@ li.fancybox-thumbs-loading {
      color:#3b54a5;
     font-family: Helvatica-medium;
 }
-
+.Fold:hover .b-backg-anim--article-title{
+    background-color: #3b54a5;
+  
+}
+.Fold:hover .b-backg-anim--article-title .dtc{
+    color: white;
+}
+.Fold:hover::after{
+    content: none;
+}
+/* .b-backg-anim--article-title:hover{
+    background-color: #3b54a5;
+    color: white;
+} */
+.b-backg-anim--article-title:hover .Fold:after{
+   content: none;
+}
+ /* .b-backg-anim--article-title .dtc:hover {
+   
+    color: white;
+} */
 .b-backg-anim--article-title.b-backg-anim--item-article-title {
     height: 5.625rem;
     font-size: 1.1875rem;
