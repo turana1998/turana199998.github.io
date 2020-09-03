@@ -1,0 +1,29 @@
+.dots-background {
+    background: url('../images/dots-footer.png') repeat 0 0;
+}
+
+.menu-active-link {
+    color: #1262b3;
+}
+
+.breadcrumb {
+    margin-bottom: 15px;
+}
+.rotate-text {
+display: block;
+    color: white;
+    position: fixed;
+    white-space: nowrap;
+    text-transform: uppercase;
+    height: 65px;
+    width: 241px;
+    margin-left: -88px;
+    margin-top: -33px;
+    padding: 20px;
+    font-size: 20px;
+    -webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    transform: rotate(270deg);
+}

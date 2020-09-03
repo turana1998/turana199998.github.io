@@ -1,0 +1,23 @@
+.b-primary-menu--inside-no-drop {
+    display: block;
+    padding: 1.4375rem .9375rem;
+    font-size: 1.0625rem;
+    font-weight: 600;
+    line-height: 1.2;
+    color: inherit;
+    -webkit-transition: none;
+    -o-transition: none;
+    transition: none;
+}
+
+
+figure.figure-center {
+    display: block !important;
+    text-align: center;
+}
+
+.input-not-empty~.e-text-field--label {
+    top: .875rem;
+    font-size: .75rem;
+    line-height: .75rem;
+}
